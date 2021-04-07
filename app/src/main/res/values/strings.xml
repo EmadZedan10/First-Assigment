@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="date_of_birth">Date of Birth</string>
+    <string name="submit">Submit</string>
+    <string name="enter_last_name">Enter Last Name</string>
+    <string name="enter_first_name">Enter First Name</string>
+    <string name="welcome_to_register_form">Welcome To Register Form</string>
+    <string name="todo">TODO</string>
+    <string name="your_full_name">Your Full Name</string>
+    <string name="welcome">Welcome</string>
+    <string name="your_gender">Your Gender</string>
+    <string name="your_birth_date">Birth Date</string>
+</resources>
